@@ -164,7 +164,8 @@ Student stress levels are distributed across multiple categories with moderate v
 Add dashboard screenshot here:
 
 ```text
-/dashboard-preview.png
+<img width="1291" height="740" alt="image" src="https://github.com/user-attachments/assets/0d44e581-b74d-43a2-8bfd-59048e7eb8d1" />
+
 ```
 
 ---
