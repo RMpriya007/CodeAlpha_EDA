@@ -1,175 +1,211 @@
-CODEALPHA_EDA – Indian Student AI Usage Analytics Dashboard
+# CODEALPHA_EDA – Indian Student AI Usage Analytics Dashboard
 
-Intern Details
+## Internship Details
 
-Name: Mohanapriya R  
-Track: Data Analytics  
-Task: Task 2 – Exploratory Data Analysis (EDA)  
-Internship: CodeAlpha 2026  
-Tool Used: Power BI Desktop  
+| Category    | Information                              |
+| ----------- | ---------------------------------------- |
+| Intern Name | Mohanapriya R                            |
+| Track       | Data Analytics                           |
+| Task        | Task 2 – Exploratory Data Analysis (EDA) |
+| Internship  | CodeAlpha 2026                           |
+| Tool Used   | Power BI Desktop                         |
 
-────────────────────────────
+---
 
-About This Project
+## About This Project
 
-This project was developed as part of the CodeAlpha Data Analytics Internship 2026.
+This project was developed as part of the **CodeAlpha Data Analytics Internship 2026**.
 
-The objective of this project is to perform Exploratory Data Analysis (EDA) on Indian Student AI Usage data and transform raw information into meaningful insights using Power BI.
+The objective of this project is to perform **Exploratory Data Analysis (EDA)** on Indian Student AI Usage data and transform raw information into meaningful business insights using **Power BI**.
 
-The dashboard explores student behavior, academic performance, AI usage preferences, productivity levels, screen time, stress levels, and internet quality to identify patterns and support data-driven understanding.
+The dashboard analyzes student behavior, academic performance, AI usage preferences, productivity patterns, screen time, stress levels, and internet accessibility to support data-driven understanding and decision-making.
 
-────────────────────────────
+---
 
-Project Objective
+## Project Objective
 
-• Understand student AI usage behavior  
-• Explore academic and lifestyle patterns  
-• Identify relationships between study habits and productivity  
-• Analyze AI tool preferences among students  
-• Generate insights using interactive visualizations  
+* Analyze student AI usage behavior
+* Explore academic and lifestyle trends
+* Identify relationships between study habits and productivity
+* Evaluate AI tool preferences among students
+* Generate meaningful insights through interactive dashboards
 
-────────────────────────────
+---
 
-Dataset Information
+## Dataset Information
 
-Dataset Name: Indian Student AI Usage Dataset from kaggle
+| Category      | Details                         |
+| ------------- | ------------------------------- |
+| Dataset Name  | Indian Student AI Usage Dataset |
+| Source        | Kaggle                          |
+| Total Records | 4,998                           |
+| Analysis Tool | Power BI Desktop                |
 
-Total Records: 4,998  
+---
 
-Analysis Tool: Power BI Desktop  
+## Exploratory Data Analysis Process
 
-────────────────────────────
+### Step 1 – Data Collection
 
-Exploratory Data Analysis Performed
+Imported the student dataset into Power BI.
 
-Step 1 – Data Collection  
-Imported student dataset into Power BI.
+### Step 2 – Data Cleaning
 
-Step 2 – Data Cleaning  
-Prepared dataset and validated values for analysis.
+Validated and prepared the dataset for analysis.
 
-Step 3 – Data Exploration  
-Explored student demographics, academic metrics, and behavioral variables.
+### Step 3 – Data Exploration
 
-Step 4 – Dashboard Development  
-Built interactive visualizations and KPI cards.
+Analyzed student demographics, academic performance, and behavioral variables.
 
-Step 5 – Insight Generation  
-Generated observations from visual analysis.
+### Step 4 – Dashboard Development
 
-────────────────────────────
+Designed interactive dashboard components and KPI visuals.
 
-Dashboard Overview
+### Step 5 – Insight Generation
 
-The dashboard contains interactive visuals to explore student AI usage and academic analytics.
+Generated observations and analytical findings from visual exploration.
 
-Visual 1 – KPI Summary
+---
 
-• Student Count: 698  
-• Average CGPA: 7.72  
-• Average Daily Study Hours: 5.45 Hours  
-• Average Daily Screen Time: 8.13 Hours  
+## Dashboard Overview
 
-Visual 2 – Expected Salary by Branch
+The dashboard includes multiple interactive visualizations designed to explore student AI usage and academic analytics.
 
-Branch comparison based on average expected salary.
+### KPI Summary
 
-Civil → 19.2 LPA  
-Electrical → 19.1 LPA  
-AI/ML → 18.8 LPA  
-IT → 18.6 LPA  
-ENTC → 18.5 LPA  
-CSE → 18.3 LPA  
-Mechanical → 18.1 LPA  
+| Metric                    | Value      |
+| ------------------------- | ---------- |
+| Student Count             | 698        |
+| Average CGPA              | 7.72       |
+| Average Daily Study Hours | 5.45 Hours |
+| Average Daily Screen Time | 8.13 Hours |
 
-Visual 3 – Productivity Score by Branch
+---
 
-Electrical → 70.84  
-CSE → 70.58  
-Civil → 70.21  
-IT → 70.04  
-Mechanical → 70.02  
-AI/ML → 69.49  
-ENTC → 69.35  
+### Expected Salary by Branch
 
-Visual 4 – Gender Distribution
+| Branch     | Expected Salary |
+| ---------- | --------------- |
+| Civil      | 19.2 LPA        |
+| Electrical | 19.1 LPA        |
+| AI/ML      | 18.8 LPA        |
+| IT         | 18.6 LPA        |
+| ENTC       | 18.5 LPA        |
+| CSE        | 18.3 LPA        |
+| Mechanical | 18.1 LPA        |
 
-Female → 50.02%  
-Male → 49.98%  
+---
 
-Visual 5 – Favorite AI Tool
+### Productivity Score by Branch
 
-Claude → 1020  
-Perplexity → 1010  
-GitHub Copilot → 1001  
-Gemini → 996  
-ChatGPT → 973  
+| Branch     | Productivity Score |
+| ---------- | ------------------ |
+| Electrical | 70.84              |
+| CSE        | 70.58              |
+| Civil      | 70.21              |
+| IT         | 70.04              |
+| Mechanical | 70.02              |
+| AI/ML      | 69.49              |
+| ENTC       | 69.35              |
 
-Visual 6 – Internet Quality Distribution
+---
 
-Excellent → 25.46%  
-Average → 25.00%  
-Poor → 24.94%  
-Good → 24.60%  
+### Gender Distribution
 
-Visual 7 – Stress Level Analysis
+| Gender | Percentage |
+| ------ | ---------- |
+| Female | 50.02%     |
+| Male   | 49.98%     |
 
-Stress levels are distributed across multiple categories with moderate variation.
+---
 
-────────────────────────────
+### Favorite AI Tool Distribution
 
-Key Insights
+| AI Tool        | Users |
+| -------------- | ----- |
+| Claude         | 1020  |
+| Perplexity     | 1010  |
+| GitHub Copilot | 1001  |
+| Gemini         | 996   |
+| ChatGPT        | 973   |
 
-• Average student CGPA is 7.72 indicating balanced academic performance.
+---
 
-• Students spend an average of 5.45 hours studying daily.
+### Internet Quality Distribution
 
-• Average screen time is 8.13 hours showing high digital engagement.
+| Category  | Percentage |
+| --------- | ---------- |
+| Excellent | 25.46%     |
+| Average   | 25.00%     |
+| Poor      | 24.94%     |
+| Good      | 24.60%     |
 
-• Female and male distribution is nearly equal.
+---
 
-• Claude and Perplexity appear as the most preferred AI tools.
+### Stress Level Analysis
 
-• Civil and Electrical branches show the highest expected salary values.
+Student stress levels are distributed across multiple categories with moderate variation across the dataset.
 
-────────────────────────────
+---
 
-Dashboard Preview
+## Key Insights
 
- screenshot with filename:
+* Average student CGPA is **7.72**, indicating balanced academic performance.
+* Students spend an average of **5.45 hours per day** studying.
+* Average screen time reached **8.13 hours per day**, showing strong digital engagement.
+* Gender distribution is nearly balanced.
+* Claude and Perplexity emerged as the most preferred AI tools.
+* Civil and Electrical branches recorded the highest expected salary values.
 
-<img width="1291" height="740" alt="image" src="https://github.com/user-attachments/assets/82447721-6b30-41dd-ab72-ece9a430d6f7" />
+---
 
-────────────────────────────
+## Dashboard Preview
 
-Files Included
+Add dashboard screenshot here:
 
-CODEALPHA_EDA.pbix  
-Dashboard.pdf
-README.md  
-────────────────────────────
+```text
+/dashboard-preview.png
+```
 
-Tools and Technologies
+---
 
-Power BI Desktop  
-Microsoft Excel  
-Exploratory Data Analysis  
-Dashboard Design  
-Data Visualization  
+## Files Included
 
-────────────────────────────
+```text
+CODEALPHA_EDA/
+│
+├── CODEALPHA_EDA.pbix
+├── Dashboard.pdf
+├── dashboard-preview.png
+└── README.md
+```
 
-Repository
+---
+
+## Tools and Technologies
+
+* Power BI Desktop
+* Microsoft Excel
+* Exploratory Data Analysis (EDA)
+* Dashboard Design
+* Data Visualization
+
+---
+
+## Repository
+
+GitHub Repository:
 
 https://github.com/RMpriya007/CodeAlpha_EDA
 
-────────────────────────────
+---
 
-Connect
+## Connect
 
-GitHub:
+GitHub Profile:
+
 https://github.com/RMpriya007
 
-────────────────────────────
+---
 
-Thank you for visiting this project.
+Thank you for exploring this project.
